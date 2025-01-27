@@ -46,5 +46,5 @@ Some roles might need 2 or more people to collaborate All members contribute to:
 ## Meeting Time
 
 - Supervision Slot for Our Group:  Tuesdays, 14:00, MBG32
-- Group weekly Meeting Time: 
+- Group weekly Meeting Time: Monday, 11:00--12:00
 
